@@ -112,6 +112,23 @@ node 2 P2P network has to be fetched & stored as well
 2.  The second challange was connecting kyle node, I had to delete another node on a different network because of the url used was the same.
 3.  despite the huge balance on each account is huge, the amount available to transfer to the second was far less than the transaction fee, so I transfer zero ethereum to show that the network & the 2 nodes are connected & active.
 
+### Challenges Solved as follows:
+        1- Deleted previous nodes that prevent me from creating node 2 wallet in my crypto app
+![](PythonTrial/kylewallet.jpg)
+        
+        2- used python to get transaction hash code is attached as garencenet.py
+
+        3- process command using anaconda prompt
+![](PythonTrial/anaconda.jpg)
+*   **First Line : is BlockNumber**
+*   **Seond Line : balance of aaron wallet**
+*   **Third Line : balance of kyle wallet**
+*   **Fourth Line : transaction hash**
+  
+        4- screenshot transaction confirmation from my crypto
+
+![](PythonTrial/confirmation.jpg)
+
 
 
 
