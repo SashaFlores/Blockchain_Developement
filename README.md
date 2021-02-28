@@ -1,6 +1,6 @@
 # Proof of Authority Development Chain
 
-1. We started in class by downloading Go Ethereum Tools from https://geth.ethereum.org/downloads/
+1. We will start by downloading Go Ethereum Tools from https://geth.ethereum.org/downloads/
 to create blockchain.
 
 2. Navigate to the folder where we decompress Go Ethereum, in our case its Blockchain-tools
